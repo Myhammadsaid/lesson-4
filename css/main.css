@@ -1,0 +1,38 @@
+.start {
+  background-color: rgb(40, 42, 53);
+  height: 80px;
+  text-align: center;
+  font-size: 30px;
+  word-spacing: 20px;
+}
+
+.start a {
+  text-decoration: none;
+  color: white;
+  line-height: 80px;
+}
+
+.button {
+  height: 45px;
+  font-size: 15px;
+  background-color: #04aa6d;
+  color: #fff;
+}
+
+.text-align {
+  background-color: rgb(217, 238, 225);
+}
+
+.button1 {
+  height: 50px;
+  font-size: 15px;
+  background-color: #04aa6d;
+  color: #fff;
+}
+
+.button2 {
+  height: 50px;
+  font-size: 15px;
+  color: #fff;
+  background-color: #000;
+}
